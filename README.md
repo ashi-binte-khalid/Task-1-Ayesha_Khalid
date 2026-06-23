@@ -1,28 +1,29 @@
 # Task-1-Ayesha_Khalid
 Task 1 submission - Static Webpage Design using HTML and CSS 
-# 🌟 Frontend Development Project
 
-A modern and responsive frontend website developed as part of my internship task.
+# Frontend Development Project
 
-## 📌 Project Overview
-This project was created to demonstrate frontend development skills using clean structure and responsive design.
+This project was developed as part of my internship task. The website is designed with a responsive layout and a clean user interface.
 
-## 🚀 Technologies Used
+## Project Overview
+The purpose of this project is to demonstrate frontend development skills through structured design and responsive implementation.
+
+## Technologies Used
 - HTML5
 - CSS3
-  
-## ✨ Features
-✔ Responsive Layout  
-✔ Modern User Interface  
-✔ Mobile Friendly Design  
-✔ Clean Structure  
 
-## 📂 Project Files
+## Features
+- Responsive Layout
+- Modern User Interface
+- Mobile Friendly Design
+- Clean Structure
+
+## Project Files
 - index.html
 - style.css
-  
-## 🎯 Purpose
-This repository contains my internship task submission and showcases my frontend development skills.
 
-## 👩‍💻 Author
+## Purpose
+This repository contains my internship task submission.
+
+## Author
 Ayesha Khalid

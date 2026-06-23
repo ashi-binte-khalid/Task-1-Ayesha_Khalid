@@ -10,7 +10,7 @@ This project was created to demonstrate frontend development skills using clean 
 ## 🚀 Technologies Used
 - HTML5
 - CSS3
-
+  
 ## ✨ Features
 ✔ Responsive Layout  
 ✔ Modern User Interface  
@@ -20,8 +20,7 @@ This project was created to demonstrate frontend development skills using clean 
 ## 📂 Project Files
 - index.html
 - style.css
-- assets / images
-
+  
 ## 🎯 Purpose
 This repository contains my internship task submission and showcases my frontend development skills.
 
